@@ -1,0 +1,101 @@
+﻿StudentID,Dept,Category,Scale,Participation,Freq,Time_Inv,Prior_Exp,Motivation,Role,Mentor,Achievement
+S1001,Sci,Technical,,volunteer,2,0,Yes,ResumeBuilding,team,No,High_Achiever
+S1002,eng,Cultral,National,LEAD,3,16,No,Social,team,No,High Achiever
+S1003,,,intr-college,Volunteer,10,,No,ResumeBuilding,Team,,High Achiever
+S1004,eng,Social,NATL,Organizer,4,,YES,Resume,Team,No,High_Achiever
+S1005,Sci,Cultural,Dept,Organizer,,0,y,Skill Dev,Individual,No,High Achiever
+S1006,Arts,Cultural,NATL,volunteer,,7,No,,,Yes,High_Achiever
+S1007,,Social,National,Lead,999,10,No,Resume,team,,Participant
+S1008,Busi.,Sports,NATL,volunteer,8,-1,No,Resume,Team,No,High_Achiever
+S1009,Biz,Cultral,,Attendee,999,-1,Yes,Social,team,No,High_Achiever
+S1010,Arts,,NATL,volunteer,9,-1,No,Socializing,Individual,Yes,Participant
+S1011,Sci,,National,Organizer,999,-1,y,Social,Team,No,High_Achiever
+S1012,Eng,Cultural,,attendee,999,0,No,Skill Dev,Team,YES,Participant
+S1013,Biz,Leadership,NATL,volunteer,,0,YES,Resume,Individual,Yes,Participant
+S1014,Sci,Technical,,attendee,999,0,No,ResumeBuilding,Team,YES,Consistent Contributor
+S1015,Eng,Technical,Inter-college,attendee,,-1,YES,,,No,Consistent Contributor
+S1016,,Leadership,dept.,Organizer,6,17,Yes,Socializing,,YES,Participant
+S1017,eng,Cultral,NATL,volunteer,,-1,y,Skill Dev,,No,High Achiever
+S1018,Busi.,,National,Lead,999,,y,Skill Dev,,,Participant
+S1019,Sci,Cultural,dept.,Organizer,4,0,y,Skill Dev,Individual,Yes,Consistent Contributor
+S1020,Arts,Technical,Dept,Lead,4,12,y,Resume,Team,YES,Participant
+S1021,Busi.,Cultral,National,Organizer,,15,Yes,ResumeBuilding,Individual,YES,Participant
+S1022,Eng,Sports,National,Attendee,5,-1,YES,ResumeBuilding,,No,High Achiever
+S1023,Busi.,Cultural,intr-college,Lead,1,0,Yes,Resume,Individual,,Consistent Contributor
+S1024,Biz,Cultural,,attendee,8,,y,,Team,,High Achiever
+S1025,Sci,Cultral,NATL,Attendee,999,,Yes,Skill Dev,Team,Yes,High_Achiever
+S1026,,Cultral,intr-college,volunteer,,0,YES,Socializing,,Yes,High Achiever
+S1027,Busi.,,National,attendee,6,6,y,,Team,YES,High_Achiever
+S1028,Biz,Cultral,National,attendee,999,20,y,Socializing,Individual,Yes,High_Achiever
+S1029,Biz,Cultral,Inter-college,Organizer,,14,No,Socializing,,No,Participant
+S1030,Arts,Technical,intr-college,Lead,10,-1,No,Resume,Individual,,Participant
+S1031,,Cultural,intr-college,Attendee,,0,No,Resume,team,YES,Consistent Contributor
+S1032,Biz,Cultural,dept.,Organizer,2,,y,ResumeBuilding,,No,Participant
+S1033,,,,volunteer,7,6,No,ResumeBuilding,Individual,Yes,Consistent Contributor
+S1034,Biz,Social,,attendee,999,,Yes,Socializing,Team,Yes,High Achiever
+S1035,Eng,,intr-college,Volunteer,3,-1,No,Resume,,YES,Consistent Contributor
+S1036,Eng,Cultural,dept.,Attendee,,,Yes,ResumeBuilding,,No,High Achiever
+S1037,Sci,Social,dept.,Attendee,9,-1,Yes,Resume,Individual,No,Participant
+S1038,,Technical,,Attendee,,0,YES,,team,YES,High Achiever
+S1039,Arts,Social,NATL,Volunteer,999,14,YES,ResumeBuilding,Individual,YES,Participant
+S1040,eng,Cultural,intr-college,attendee,1,0,Yes,Resume,,No,Participant
+S1041,Arts,,National,attendee,999,,No,Social,Team,No,High_Achiever
+S1042,Arts,Technical,Inter-college,Volunteer,9,,No,ResumeBuilding,Team,No,High Achiever
+S1043,,Cultral,,volunteer,9,0,No,Resume,Individual,,High Achiever
+S1044,Biz,Sports,National,Volunteer,,,y,ResumeBuilding,Team,,Consistent Contributor
+S1045,eng,Sports,,Attendee,6,0,No,Skill Dev,,Yes,Participant
+S1046,Sci,Leadership,Dept,Lead,,11,No,Social,,,High Achiever
+S1047,Sci,Cultral,dept.,volunteer,1,,YES,Resume,,No,High Achiever
+S1048,eng,,Inter-college,Organizer,8,,Yes,ResumeBuilding,team,,High Achiever
+S1049,Biz,Cultural,Inter-college,Volunteer,999,0,No,,Individual,No,High_Achiever
+S1050,Biz,Leadership,,Volunteer,999,14,y,Skill Dev,Individual,Yes,High_Achiever
+S1051,Sci,Technical,Dept,LEAD,999,0,No,ResumeBuilding,,,Consistent Contributor
+S1052,,Cultural,National,Lead,3,0,No,Resume,Individual,No,High Achiever
+S1053,Eng,Leadership,dept.,Attendee,,-1,y,ResumeBuilding,Team,,High Achiever
+S1054,Arts,Leadership,Inter-college,Organizer,6,-1,y,Resume,,,High Achiever
+S1055,Biz,Social,dept.,Organizer,5,-1,y,,team,No,High_Achiever
+S1056,Biz,,National,Attendee,999,-1,No,ResumeBuilding,team,No,Consistent Contributor
+S1057,Eng,Cultural,intr-college,Attendee,999,,Yes,Social,Team,Yes,High_Achiever
+S1058,Busi.,Technical,intr-college,attendee,999,-1,No,Socializing,,Yes,High Achiever
+S1059,eng,Cultural,NATL,Attendee,999,-1,No,ResumeBuilding,,YES,High_Achiever
+S1060,eng,Cultral,NATL,volunteer,999,-1,No,Resume,,YES,Consistent Contributor
+S1061,Eng,Sports,,Organizer,1,19,Yes,Socializing,,Yes,Participant
+S1062,Arts,Leadership,Dept,LEAD,,19,No,Skill Dev,Individual,No,Consistent Contributor
+S1063,eng,Technical,,Attendee,,-1,No,ResumeBuilding,Individual,No,Consistent Contributor
+S1064,Eng,Leadership,,Lead,999,-1,Yes,Social,,Yes,Consistent Contributor
+S1065,Eng,Social,NATL,attendee,999,-1,Yes,Resume,,Yes,Consistent Contributor
+S1066,Eng,Technical,Inter-college,Attendee,999,-1,Yes,Resume,Individual,No,High Achiever
+S1067,Busi.,Cultral,National,Attendee,,,YES,Resume,Team,YES,Participant
+S1068,Busi.,Leadership,intr-college,Attendee,,0,No,Resume,,,High_Achiever
+S1069,Sci,Technical,,Volunteer,999,-1,y,ResumeBuilding,Individual,YES,Participant
+S1070,eng,Cultral,Dept,Organizer,,-1,Yes,,,No,High_Achiever
+S1071,eng,Social,National,Volunteer,999,,No,ResumeBuilding,Individual,Yes,Participant
+S1072,Sci,Cultural,Inter-college,volunteer,999,-1,No,Resume,,Yes,Consistent Contributor
+S1073,Arts,Social,intr-college,Attendee,,,y,Social,,No,Participant
+S1074,Busi.,Leadership,Inter-college,Attendee,999,18,Yes,Resume,,No,Participant
+S1075,Busi.,Leadership,Inter-college,LEAD,6,-1,YES,,,Yes,Participant
+S1076,Eng,Leadership,Inter-college,Lead,,,YES,Resume,,,High Achiever
+S1077,,Leadership,Inter-college,Volunteer,,0,No,,Individual,No,Participant
+S1078,eng,Leadership,National,attendee,7,,YES,ResumeBuilding,team,No,Participant
+S1079,Eng,Technical,dept.,LEAD,4,0,y,Social,team,No,Participant
+S1080,Arts,Cultral,,Organizer,,7,YES,,,No,Consistent Contributor
+S1081,Arts,Leadership,National,Organizer,1,,y,Social,,No,Participant
+S1082,,Cultral,intr-college,volunteer,999,0,No,ResumeBuilding,team,Yes,High_Achiever
+S1083,,Technical,NATL,Organizer,,,No,Skill Dev,Individual,,Consistent Contributor
+S1084,Sci,Cultural,Dept,attendee,,-1,No,,Individual,No,Consistent Contributor
+S1085,eng,Cultral,Inter-college,attendee,8,10,No,,,,Consistent Contributor
+S1086,eng,,NATL,Attendee,10,0,y,Skill Dev,Team,YES,High Achiever
+S1087,Arts,,,Lead,1,0,Yes,Socializing,Team,No,Consistent Contributor
+S1088,,Sports,intr-college,Attendee,,4,YES,Social,team,YES,High_Achiever
+S1089,Eng,Cultral,Dept,attendee,3,-1,y,ResumeBuilding,team,,Participant
+S1090,Biz,Technical,dept.,Lead,999,7,Yes,Socializing,,,High_Achiever
+S1091,eng,Cultural,,LEAD,999,8,Yes,ResumeBuilding,Team,No,Participant
+S1092,eng,Cultural,,LEAD,999,0,No,ResumeBuilding,,No,High Achiever
+S1093,Eng,,Inter-college,LEAD,,-1,No,Skill Dev,team,No,High Achiever
+S1094,Arts,Cultural,Dept,LEAD,9,0,y,ResumeBuilding,Team,YES,Consistent Contributor
+S1095,Sci,Cultral,NATL,LEAD,6,,No,Socializing,team,No,High_Achiever
+S1096,Sci,Technical,National,Organizer,4,-1,No,Resume,,No,Consistent Contributor
+S1097,Eng,Technical,,Attendee,,18,YES,Social,team,Yes,Consistent Contributor
+S1098,,Sports,dept.,Volunteer,3,0,y,ResumeBuilding,Individual,Yes,High_Achiever
+S1099,Arts,Leadership,,volunteer,,0,YES,Socializing,Individual,YES,High Achiever
+S1100,Eng,Leadership,National,volunteer,5,,Yes,Skill Dev,team,,High_Achiever
